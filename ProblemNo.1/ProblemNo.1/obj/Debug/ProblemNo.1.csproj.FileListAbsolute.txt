@@ -1,0 +1,7 @@
+D:\C# Tuts\LogicBuildingPractices\ProblemNo.1\ProblemNo.1\bin\Debug\ProblemNo.1.exe.config
+D:\C# Tuts\LogicBuildingPractices\ProblemNo.1\ProblemNo.1\bin\Debug\ProblemNo.1.exe
+D:\C# Tuts\LogicBuildingPractices\ProblemNo.1\ProblemNo.1\bin\Debug\ProblemNo.1.pdb
+D:\C# Tuts\LogicBuildingPractices\ProblemNo.1\ProblemNo.1\obj\Debug\ProblemNo.1.csproj.AssemblyReference.cache
+D:\C# Tuts\LogicBuildingPractices\ProblemNo.1\ProblemNo.1\obj\Debug\ProblemNo.1.csproj.CoreCompileInputs.cache
+D:\C# Tuts\LogicBuildingPractices\ProblemNo.1\ProblemNo.1\obj\Debug\ProblemNo.1.exe
+D:\C# Tuts\LogicBuildingPractices\ProblemNo.1\ProblemNo.1\obj\Debug\ProblemNo.1.pdb
